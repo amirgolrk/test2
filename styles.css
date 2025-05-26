@@ -1,0 +1,23 @@
+body {
+    
+    background: linear-gradient(135deg, #74ebd5 0%, #ACB6E5 100%) no-repeat fixed;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+li {
+    list-style-type: disc ;
+}
+
+.deletebtns {
+    text-decoration: none;
+    color : brown;
+    font-weight: bolder;
+}
+
+.deletebtns:hover{
+    color: red;
+    cursor: pointer;
+}
